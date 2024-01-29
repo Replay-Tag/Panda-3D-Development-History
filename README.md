@@ -8,7 +8,9 @@ Here is some information about this version of the game:
 The build is just the player on a grass floor with stone blocks and a wall (Original version of The wall from Panda-3D) the wall has blue text saying "hi im replay and this is my game"
 # PANDA 3D TESTING BUILDS:
 PANDA 3D TESTING: (First build) Engine version: 2019.4.34 Build date: 2021 Status: Private
+
 PANDA 3D HIDE AND SEEK: Engine version: 2019.4.34 Build date: 2022 Status: Private
+
 Release One: (Public build) Engine version: 2019.4.34 Build date: 2022 Status: Public
 # 2022-2023 (Public Game)
 In 2022, the game was released to the public on github only the first build was Release One
@@ -27,18 +29,31 @@ After this a unreleased version of the Xmas Update was created this build was ne
 Later at the start of 2023 the creator (Me) said they were going to create a remake of panda 3d
 # 2022-2023 BUILDS:
 Release One: Engine version: 2019.4.34 Build date: 2022 Status: Public
+
 Release Two: Engine version: 2019.4.34 Build date: Apr 23, 2022 Status: Public
+
 Release Three: Engine version: 2019.4.34 Build date: Apr 28, 2022 Status: Public
+
 Forth Release: Engine version: 2019.4.34 Build date: May 6, 2022 Status: Public
+
 Summer Update: Engine version: Unknown Build date: 2022 Status: Unknown
+
 V6: Engine version: Unknown Build date: 2022 Status: Unknown
+
 V7: Engine version: Unknown Build date: 2022 Status: Unknown
+
 V8: Engine version: Unknown Build date: 2022 Status: Unknown
+
 Halloween Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Private
+
 Halloween Hotfix: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
+
 Halloween Hotfix V2: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
+
 Fall Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
+
 Xmas Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Private
+
 # 2023 (Remake)
 At the start of 2023 the remake was starting to be made
 later on the build kept having errors and more
@@ -47,6 +62,7 @@ there were too many errors where at the point it wouldnt run on quest after a wh
 decided to stop working on panda 3d and open source the project
 # 2023 REMAKE BUILDS:
 Quest testing: (First build) Engine version: 2021.3.5f1 Build date: 2023 Status: Private
+
 "HOPE": Engine version: 2021.3.5f1 Build date: 2023 Status: Private
 # MORE INFORMATION
 Panda 3D was meant to have a hide and seek mode
