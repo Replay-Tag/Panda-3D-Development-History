@@ -66,14 +66,21 @@ Quest testing: (First build) Engine version: 2021.3.5f1 Build date: 2023 Status:
 "HOPE": Engine version: 2021.3.5f1 Build date: 2023 Status: Private
 # MORE INFORMATION
 Panda 3D was meant to have a hide and seek mode
+
 Panda 3D Was going to have a floor is lava mode
+
 Panda 3D Was going to have a parkour map
+
 Panda 3D was going to have a Snow map
+
 Panda 3D had a quest version of the game that had a different map
+
 Panda 3D Was going to have Ziplines
 # Screenshots
 [PANDA 3D TESTING SCREENSHOT](https://i.ibb.co/kgC2B5G/Screenshot-2021-12-10-191732.png)
+
 [Panda 3D Quest version Screenshots](https://pastebin.com/raw/mEJHzxdX)
+
 [Panda 3D Sidequest Screenshots](https://pastebin.com/raw/UtBahtti)
 # Videos
 [Panda 3D Gameplay Trailer](https://www.youtube.com/watch?v=5lxpMj7mb1M&ab_channel=replaytag)
