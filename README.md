@@ -7,11 +7,12 @@ You can see one screenshot of the map at the bottom of this readme
 Here is some information about this version of the game:
 The build is just the player on a grass floor with stone blocks and a wall (Original version of The wall from Panda-3D) the wall has blue text saying "hi im replay and this is my game"
 # PANDA 3D TESTING BUILDS:
-PANDA 3D TESTING: (First build) Engine version: 2019.4.34 Build date: 2021 Status: Private
+| Build                  	 | Date          	 | Engine Version	    |		    Status             |
+| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
+| PANDA 3D TESTING: (First build)        	 |  2021	   	 | 2019.4.34	    |		Private |
+| PANDA 3D HIDE AND SEEK:                | 2022              | 2019.4.34           | Private |
+| Release One: (Public build)         	 |  2022      	 | 2019.4.34	    |		Public |
 
-PANDA 3D HIDE AND SEEK: Engine version: 2019.4.34 Build date: 2022 Status: Private
-
-Release One: (Public build) Engine version: 2019.4.34 Build date: 2022 Status: Public
 # 2022-2023 (Public Game)
 In 2022, the game was released to the public on github only the first build was Release One
 which is a panda 3d testing era build the .exe file was renamed from PANDA 3D TESTING.EXE to PANDA 3D.exe
@@ -28,31 +29,21 @@ next month the fall update came out adding new hats new map and a little more
 After this a unreleased version of the Xmas Update was created this build was never released due to it being a little too late to do so
 Later at the start of 2023 the creator (Me) said they were going to create a remake of panda 3d
 # 2022-2023 BUILDS:
-Release One: Engine version: 2019.4.34 Build date: 2022 Status: Public
-
-Release Two: Engine version: 2019.4.34 Build date: Apr 23, 2022 Status: Public
-
-Release Three: Engine version: 2019.4.34 Build date: Apr 28, 2022 Status: Public
-
-Forth Release: Engine version: 2019.4.34 Build date: May 6, 2022 Status: Public
-
-Summer Update: Engine version: Unknown Build date: 2022 Status: Unknown
-
-V6: Engine version: Unknown Build date: 2022 Status: Unknown
-
-V7: Engine version: Unknown Build date: 2022 Status: Unknown
-
-V8: Engine version: Unknown Build date: 2022 Status: Unknown
-
-Halloween Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Private
-
-Halloween Hotfix: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
-
-Halloween Hotfix V2: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
-
-Fall Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Public
-
-Xmas Update: Engine version: 2021.3.5f1 Build date: 2022 Status: Private
+| Build                  	 | Date          	 | Engine Version	    |		    Status             |
+| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
+| Release One:        	 |  2022	   	 | 2019.4.34	    |		Public |
+| Release Two:                | Apr 23, 2022              | 2019.4.34           | Public |
+| Release Three:        	 |  Apr 28, 2022      	 | 2019.4.34	    |		Public |
+| Forth Release:        	 |  May 6, 2022      	 | 2019.4.34	    |		Public |
+| Summer Update:        	 |  2022      	 | Unknown	    |		Unknown |
+| V6:        	 |  Unknown      	 | Unknown	    |		Unknown |
+| V7:        	 |  Unknown      	 | Unknown	    |		Unknown |
+| V8:        	 |  Unknown      	 | Unknown	    |		Unknown |
+| Halloween Update:        	 |  2022      	 | 2021.3.5f1	    |		Private |
+| Halloween Hotfix:        	 |  2022      	 | 2021.3.5f1	    |		Public |
+| Halloween Hotfix V2:        	 |  2022      	 | 2021.3.5f1	    |		Public |
+| Fall Update:        	 |  2022      	 | 2021.3.5f1	    |		Public |
+| Xmas Update:        	 |  2022      	 | 2021.3.5f1	    |		Private |
 
 # 2023 (Remake)
 At the start of 2023 the remake was starting to be made
@@ -61,9 +52,11 @@ fix after fix sometime in july 2023 the build was submitted to app lab (Quest)
 there were too many errors where at the point it wouldnt run on quest after a while me (The creator) 
 decided to stop working on panda 3d and open source the project
 # 2023 REMAKE BUILDS:
-Quest testing: (First build) Engine version: 2021.3.5f1 Build date: 2023 Status: Private
+| Build                  	 | Date          	 | Engine Version	    |		    Status             |
+| ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
+| Quest testing: (First build)        	 |  2023	   	 | 2021.3.5f1	    |		Private |
+| "HOPE":                | 2023              | 2021.3.5f1           | Private |
 
-"HOPE": Engine version: 2021.3.5f1 Build date: 2023 Status: Private
 # MORE INFORMATION
 Panda 3D was meant to have a hide and seek mode
 
